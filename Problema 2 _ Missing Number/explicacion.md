@@ -16,4 +16,4 @@ Se finaliza el programa.
 
 -------------------------------------------
 
-El tiempo de ejecución de mi programa fué de 0.01 s
+El tiempo de ejecución de mi programa fué de 0.08 s
